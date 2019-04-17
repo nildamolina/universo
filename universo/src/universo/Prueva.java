@@ -13,5 +13,8 @@ public class Prueva {
     public void unMetodo() {
         System.out.println("hola");
     }
+    public void otroMetodo() {
+        System.out.println("esto es una prueba")
+    }
     
 }
