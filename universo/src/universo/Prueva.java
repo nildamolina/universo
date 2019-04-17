@@ -14,7 +14,7 @@ public class Prueva {
         System.out.println("hola");
     }
     public void otroMetodo() {
-        System.out.println("esto es una prueba")
+        System.out.println("esto es una prueba");
     }
     
 }
