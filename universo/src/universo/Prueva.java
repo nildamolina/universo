@@ -11,6 +11,7 @@ package universo;
  */
 public class Prueva {
     public void unMetodo() {
-        System.out.println("hola")
+        System.out.println("hola");
+    }
     
 }
