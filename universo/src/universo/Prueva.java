@@ -10,5 +10,7 @@ package universo;
  * @author programador
  */
 public class Prueva {
+    public void unMetodo() {
+        System.out.println("hola")
     
 }
